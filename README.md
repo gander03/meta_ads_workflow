@@ -1,6 +1,7 @@
 # Meta Ad Workflow
 
 A commissioned marketing automation web application for one-click batch Facebook ad creation and automated ad variation generation, built with React and Python Flask, featuring integration with the Meta Ads API to automate campaign, ad set, and ad management workflows.
+_Developed and delivered in May 2025_
 
 ## Features
 
@@ -29,6 +30,6 @@ The application was designed to streamline large-scale advertising workflows by 
 
 ## Notes
 
-This repository is published solely as part of a portfolio with permission from the client. Certain implementation details, configuration, and deployment-specific components may be omitted or modified for privacy and confidentiality reasons.
+This repository is released publicly solely as part of a portfolio with permission from the client. Certain implementation details, configuration, and deployment-specific components may be omitted or modified for privacy and confidentiality reasons.
 
-Installation and deployment instructions have intentionally been excluded from this public release.
+_Installation and deployment instructions have intentionally been excluded from this public release._
